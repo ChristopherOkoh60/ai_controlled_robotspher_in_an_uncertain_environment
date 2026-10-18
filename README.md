@@ -8,6 +8,7 @@ This work demonstrates the development of mobile robot navigation in constrained
 <li>Import the RobotSphere asset from the asset store. Set up its materials/texture and animation. Develop a C# script that will control its navigation.</li>
 <li>Develop a First Person Character (FPC) controller that can be used to proceed from outside the building to enter the building through the door. Develop and set up a door and its trigger that will enable the door to open when the FPC controller approaches the door.</li>
 </ul>
+Video demonstration: https://youtu.be/bhkwCiT28XM?si=RXpO0ydp-UvOHPcW
 
 <h2>Project Development and Procedure</h2>
 
